@@ -2,7 +2,11 @@ body {
     background-color: #0f0094;
     color: rgb(255, 255, 255);
     font-family: "Bai Jamjuree", sans-serif;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
 }
 
 button {
